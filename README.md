@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shinyxn</h1>
-<h3 align="center">A people who write code and wait for it to error and fix it</h3>
+<h3 align="center">People who write code and wait for it to encounter errors and forget it.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinyxn" alt="shinyxn" /></a> </p>
 
 - 🔭 I’m currently developing on [NinoXploit Projects](https://ninoxpl.github.io)
 
-- 🌱 I’m currently learning **Backend-Developer, Microcontroller, Data Science, and interested in Artificial Intellegence**
+- 🌱 I’m currently learning **Backend-Developer, Microcontroller, and interested in Artificial Intellegence**
 
 - 💬 Ask me about **girlfriend?** unfortunately I don't have 
 
-- ⚡ Fun fact **I love Eru Chitanda and Tendou Arisu is my little sister**
+- ⚡ Ask me about **biscuit?** I have one 
 <p align="left">
 </p>
 
@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinyxn&" alt="shinyxn" /></p>
 
-<h3 align="center">"Happiness comes when your work and words are of benefit to others"</h3>
+<h3 align="center">"True happiness blossoms when your actions and words bring value and kindness to others."</h3>
 
 
