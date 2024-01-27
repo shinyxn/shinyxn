@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shinyxn</h1>
-<h3 align="center">People who write code and wait for it to encounter errors and forget it.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinyxn" alt="shinyxn" /></a> </p>
-
-- 🔭 I’m currently developing on [NinoXploit Projects](https://ninoxpl.github.io)
-
-- 🌱 I’m currently learning **nothing**
-
-- ⚡ Ask me about **biscuit?** I have one 
 <p align="left">
 </p>
 
